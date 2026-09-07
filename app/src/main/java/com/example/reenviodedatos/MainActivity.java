@@ -42,4 +42,11 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(intent);
     }
+
+    public void Tp_minecraft()
+    {
+        Intent intent = new Intent(MainActivity.this, SegundaActivity.class);
+        startActivity(intent);
+    }
+
 }

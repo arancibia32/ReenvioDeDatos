@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void Tp_minecraft()
     {
+        //CHICOS AGREGEN UN BOTON QUE HAGA ESTA FUNCION GRACIAS
         Intent intent = new Intent(MainActivity.this, SegundaActivity.class);
         startActivity(intent);
     }
